@@ -12,6 +12,13 @@ See the full tutorial:
 
 ## Setup
 
+Clone the repository:
+
+```bash
+git clone https://github.com/AmelN/smart-mode-walking-tour-finder.git
+cd smart-mode-walking-tour-finder
+```
+
 Install the dependencies:
 
 ```bash
