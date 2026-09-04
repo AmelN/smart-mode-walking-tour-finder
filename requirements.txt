@@ -1,0 +1,3 @@
+Flask
+hai-agents
+python-dotenv
