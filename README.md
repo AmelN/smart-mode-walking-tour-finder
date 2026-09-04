@@ -31,7 +31,3 @@ python app.py
 ```
 
 Open the local URL shown in the terminal.
-
-## Notes
-
-The `Book this tour` button takes the user to the GuruWalk website, where they can review the tour and complete the booking themselves.
